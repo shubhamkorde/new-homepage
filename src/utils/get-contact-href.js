@@ -4,10 +4,10 @@ const getContactHref = (name: string, contact: string) => {
 
   switch (name) {
     case 'twitter':
-      href = `https://www.twitter.com/${contact}`;
+      href = `https://twitter.com/ss21_korde`;
       break;
     case 'github':
-      href = `https://github.com/${contact}`;
+      href = `https://github.com/shubhamkorde`;
       break;
     case 'vkontakte':
       href = `https://vk.com/${contact}`;
@@ -19,16 +19,16 @@ const getContactHref = (name: string, contact: string) => {
       href = `mailto:${contact}`;
       break;
     case 'linkedin':
-      href = `https://www.linkedin.com/in/${contact}`;
+      href = `https://www.linkedin.com/in/shubham-korde/`;
       break;
     case 'instagram':
-      href = `https://www.instagram.com/${contact}`;
+      href = `https://www.instagram.com/_skorde_/`;
       break;
     case 'line':
       href = `line://ti/p/${contact}`;
       break;
     case 'facebook':
-      href = `https://www.facebook.com/${contact}`;
+      href = `https://www.facebook.com/shubham.korde.21`;
       break;
     case 'gitlab':
       href = `https://www.gitlab.com/${contact}`;
