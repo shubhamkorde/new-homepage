@@ -10,7 +10,7 @@ tags:
   - "Pandemic"
   - "Mental Health"
 description: "I find it a fun exercise to think about reasons why a particular situation is good or bad. Here are a few reasons why lockdown is not that bad."
-socialImage: "/media/lock.jpg"
+socialImage: ""
 ---
 **Disclaimer:** These are my personal views. By the lottery of birth, I have been born in a decent middle-class family and have minimal responsibilities at home. My point of view might be narrow and non-generalizable. 
 
